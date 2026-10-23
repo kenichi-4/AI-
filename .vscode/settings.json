@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/ensyuu/code/.venv/bin/python"
+}
